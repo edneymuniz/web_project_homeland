@@ -4,7 +4,8 @@
   margin: 34px 0 0 0;
   }
 
-@media (max-width: 320px) {
+
+  @media (max-width: 320px) {
 
 .nav__logo {
   width: 188px;
