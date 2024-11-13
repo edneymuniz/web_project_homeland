@@ -1,4 +1,4 @@
-.conheca {
+.introduction {
   width: 80%;
   margin: auto;
   display: flex;
@@ -7,7 +7,7 @@
   flex-direction: column;
 }
 
-.conheca__title {
+.introduction__title {
   font-size: 54px;
   font-weight: 900;
   line-height: 58px;
@@ -16,7 +16,7 @@
   max-width: 830px;
 }
 
-.conheca__quote {
+.introduction__quote {
   font-size: 24px;
   font-weight: 300;
   line-height: 34px;
@@ -25,7 +25,7 @@
   margin: 40px 0 10px 0;
 }
 
-.conheca__quote-author {
+.introduction__quote-author {
   font-size: 24px;
   font-weight: 300;
   line-height: 34px;
@@ -34,7 +34,7 @@
   margin: 0;
 }
 
-.conheca__text {
+.introduction__text {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -45,11 +45,11 @@
 
 
 @media (max-width: 768px) {
-  .conheca {
+  .introduction {
     width: 90%;
   }
 
-  .conheca__title {
+  .introduction__title {
     font-size: 45px;
     line-height: 49px;
   }
@@ -76,12 +76,12 @@
     line-height: 25px;
   }
 
-  .conheca__quote-author {
+  .introduction__quote-author {
     font-size: 20px;
     line-height: 25px;
   }
 
-  .conheca__text {
+  .introduction__text {
     font-size: 16px;
     line-height: 20px;
   }
@@ -104,20 +104,20 @@
 
 
 @media (max-width: 320px) {
-  .conheca {
+  .introduction {
     width: 90%;
   }
 
-  .conheca__title {
+  .introduction__title {
     font-size: 32px;
     line-height: 35px;
   }
 
-  .conheca__quote {
+  .introduction__quote {
     margin: 40px 0 10px 0;
   }
 
-  .conheca__text {
+  .introduction__text {
     margin: 32px 0 64px 0;
     font-size: 14px;
   }
