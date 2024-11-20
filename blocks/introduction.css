@@ -54,11 +54,11 @@
     line-height: 49px;
   }
 
-  .conheca__quote {
+  .introduction__quote {
     margin: 50px 0 10px 0;
   }
 
-  .conheca__text {
+  .introduction__text {
     margin: 32px 0 88px 0;
   }
 }
@@ -66,12 +66,12 @@
 
 
 @media (max-width: 600px) {
-  .conheca__title {
+  .introduction__title {
     font-size: 40px;
     line-height: 45px;
   }
 
-  .conheca__quote {
+  .introduction__quote {
     font-size: 20px;
     line-height: 25px;
   }
@@ -90,12 +90,12 @@
 
 
 @media (max-width: 450px) {
-  .conheca__title {
+  .introduction__title {
     font-size: 35px;
     line-height: 40px;
   }
 
-  .conheca__quote-author {
+  .introduction__quote-author {
     font-size: 18px;
     line-height: 22px;
   }
